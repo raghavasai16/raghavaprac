@@ -1,4 +1,8 @@
 First Line is Raghava
 second line first copy branch
+<<<<<<< HEAD
 third line second copy branch
 
+=======
+fourth line first copy branch for merge conflicts
+>>>>>>> firstcopyBranch
